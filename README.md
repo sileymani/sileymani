@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @sileymani
 - 👀 I’m interested in all kind of things
-- 🌱 I’m currently learning Computer Science
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning data-science
 - 📫 Reach me on ndiayeball.98@gmail.com
 
 <!---
