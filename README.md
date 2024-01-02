@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @sileymani
-- 👀 I’m interested in all kind of things
-- 🌱 I’m currently learning data-science
+- 👀 I’m interested in machine learning and web development
+- 🌱 I’m currently learning to build and deploy machine learning models
 - 📫 Reach me on ndiayeball.98@gmail.com
 - 📫 Or ndiaye.ball@etu.sorbonne-universite.fr
 - 📫 Or n-diaye.ball@epitech.eu
